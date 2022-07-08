@@ -1,2 +1,2 @@
 # Exercises_Python
-Lista de exercício Python Brasil
+Prática_ Python com exercício do Python Brasil e do curso DevPro.
